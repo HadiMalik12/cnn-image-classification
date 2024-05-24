@@ -18,6 +18,6 @@ This project requires the following dependencies:
 - NumPy
 - Matplotlib
 
-Install the necessary Python packages using pip
+Install the necessary Python packages using pip:
 ```bash
 pip install keras tensorflow numpy matplotlib
