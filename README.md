@@ -19,5 +19,5 @@ This project requires the following dependencies:
 - Matplotlib
 
 Install the necessary Python packages using pip
-'''bash
+```bash
 pip install keras tensorflow numpy matplotlib
