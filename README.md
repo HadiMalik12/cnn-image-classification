@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository features a Python implementation of a Convolutional Neural Network (CNN) using Keras for classifying cat and dog images. It employs standardization of images to 100x100 pixels, ReLU activation for convolutional layers, and a sigmoid activation for output, enabling binary classification.
+This repository features a Python implementation of a Convolutional Neural Network (CNN) using Keras for classifying cat and dog images. The model architecture includes two convolutional layers with 32 filters of size 3x3 and ReLU activation, followed by max-pooling layers for downsampling. Finally, two dense layers, the first with 64 neurons and the second, output layer, with a sigmoid activation, handle classification into cat or dog categories.
 
 ## Dataset
 The dataset used in this CNN can be found here:
